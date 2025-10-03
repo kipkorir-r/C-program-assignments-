@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>
 int main()
  {
@@ -15,4 +20,5 @@ int main()
         bill = (units * 30);
      printf("Total water bill: %.2lf KES\n", bill);
      return 0;
+
  }
