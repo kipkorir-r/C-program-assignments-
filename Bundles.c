@@ -1,3 +1,7 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
 #include <stdio.h>//stand
 
 int main()
@@ -32,4 +36,5 @@ int main()
     }
 
     return 0;
+
 }
