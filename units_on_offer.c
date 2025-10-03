@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>//standard input-output file
  int main()//Program begins
  {
@@ -10,4 +15,5 @@
    printf("4.Database Systems\n");
    printf("5.Software Engineering\n");
  return 0;//Execution is done
+
 }
