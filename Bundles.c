@@ -6,7 +6,7 @@
 
 int main()
  {
-    int choice;//store user choices
+    int choice;//store use choices
     // Display menu
     printf("Select data bundle:\n");
     printf("1.100MB @ 50 KES\n");
@@ -38,3 +38,4 @@ int main()
     return 0;
 
 }
+
