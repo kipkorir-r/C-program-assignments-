@@ -1,3 +1,7 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
 #include <stdio.h>//Standard input-output file
 int main()
 {
@@ -18,4 +22,5 @@ int main()
 	printf("Bank balance :Ksh %.2lf\n",bank_balance);
 	printf("Phone number :%ld\n",phone_number);
     return 0;//program ends
+
 }
