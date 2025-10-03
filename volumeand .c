@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>
 #define PI 3.1416// Define constant value of PI
 int main()
@@ -17,3 +22,4 @@ int main()
 
     return 0;
 }
+
