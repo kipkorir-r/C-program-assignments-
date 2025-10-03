@@ -1,3 +1,7 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
 #include <stdio.h>
 
 int main()
@@ -16,4 +20,5 @@ int main()
     else 
         printf("Unfortunately, we are unable to offer you a loan at this time.\n");
     return 0;
+
 }
