@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>//starndard input output
 
 int main()
@@ -16,4 +21,5 @@ int main()
     
 
     return 0;//program ends
+
 }
