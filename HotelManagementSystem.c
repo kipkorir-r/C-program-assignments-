@@ -8,7 +8,7 @@
 int main() {
 
     
-    // PART 1: 1D ARRAY – Weekly Revenue Tracker
+    // PART 1: 1D ARRAY â€“ Weekly Revenue Tracker
   
 
     float revenue[7];// Array to hold daily revenue for 7 days
@@ -31,17 +31,17 @@ int main() {
     printf("\nTotal Weekly Revenue: %.2f\n", totalRevenue);
     printf("Average Daily Revenue: %.2f\n", averageRevenue);
 
-    // PART 2: 2D ARRAY – Room Occupancy (One Branch)
+    // PART 2: 2D ARRAY â€“ Room Occupancy (One Branch)
 
 
-    int occupancy[5][10];  // 5 floors × 10 rooms per floor
+    int occupancy[5][10];  // 5 floors Ã— 10 rooms per floor
     int occupied, vacant;
 
     printf("\nRoom Occupancy (One Branch)\n");
 
     // Simulated occupancy data (1 = occupied, 0 = vacant)
     int simulatedOccupancy[5][10] = {
-        {1, 0, 1, 1, 0, 1, 0, 1, 1, 0},
+        {1, 0, 1, 1, 0, 1, 0, 1, 1, 0},//1 for occupied andd 0 for vacant 
         {1, 1, 0, 0, 1, 0, 1, 1, 0, 0},
         {0, 0, 1, 1, 1, 0, 0, 1, 1, 1},
         {1, 1, 1, 0, 0, 0, 1, 0, 1, 0},
@@ -67,9 +67,9 @@ int main() {
         printf("Floor %d  Occupied: %d, Vacant: %d\n", floor + 1, occupied, vacant);
     }
 
-    // PART 3: 3D ARRAY – Multiple Branches
+    // PART 3: 3D ARRAY â€“ Multiple Branches
     
-    int data[3][5][10];   // 3 branches × 5 floors × 10 rooms
+    int data[3][5][10];   // 3 branches Ã— 5 floors Ã— 10 rooms
     int totalOccupied = 0; // Total occupied rooms across all branches
 
     printf("\n Multiple Branches Occupancy\n");
@@ -128,5 +128,6 @@ printf("Total Vacant Rooms Across All Branches: %d\n", totalVacant);
 
 // End of program
 return 0;
+
 
 }
