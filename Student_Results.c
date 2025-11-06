@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>
 
 struct Student {
@@ -28,3 +33,4 @@ int main() {
     fclose(file);
     return 0;
 }
+
