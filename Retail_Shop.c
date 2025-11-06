@@ -1,3 +1,8 @@
+/*
+	ROBIN KIPKORIR MUTAI
+	PA106/G/28705/25
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -20,3 +25,4 @@ int main() {
 
     return 0;
 }
+
